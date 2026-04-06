@@ -43,16 +43,22 @@ Ejercicio 4:
 Desarrolla una clase Cancion con los siguientes atributos:
 
 ● titulo: una variable String que guarda el título de la canción.
+
 ● autor: una variable String que guarda el autor de la canción.
+
 Con los siguientes métodos:
 ● Cancion(String, String): constructor que recibe como parámetros el título y el autor de la
 canción (por este orden).
 ● get_titulo(): devuelve el título de la canción.
+
 ● get_autor(): devuelve el autor de la canción.
+
 ● set_titulo(String): establece el título de la canción.
+
 ● set_autor(String): establece el autor de la canción
 
 Ejercicio 5:
+
 ● Crea una clase Libro que modele la información que se mantiene en una biblioteca sobre
 cada libro: título, autor (usa la clase Persona), ISBN, páginas, edición, editorial , lugar
 (ciudad y país) y fecha de edición (como texto). La clase debe proporcionar los siguientes
