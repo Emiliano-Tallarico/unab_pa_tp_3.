@@ -15,8 +15,10 @@ Ejercicio 1:
 invitar a los otros integrantes y al docente a la cuenta felipemoralesquerol)
 
 Ejercicio 2:
+
 ● Crear la clase Punto con dos atributos x e y (ambos numéricos), con el correspondiente
 constructor que recibe ambos valores.
+
 ● Definir métodos tales como:
 ○ eje_x
 ○ eje_y
