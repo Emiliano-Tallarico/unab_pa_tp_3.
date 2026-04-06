@@ -41,6 +41,7 @@ Punto, que son utilizados para inicializar los atributos.
 
 Ejercicio 4:
 Desarrolla una clase Cancion con los siguientes atributos:
+
 ● titulo: una variable String que guarda el título de la canción.
 ● autor: una variable String que guarda el autor de la canción.
 Con los siguientes métodos:
@@ -57,7 +58,9 @@ cada libro: título, autor (usa la clase Persona), ISBN, páginas, edición, edi
 (ciudad y país) y fecha de edición (como texto). La clase debe proporcionar los siguientes
 servicios: getters y setters, método para leer la información y método para mostrar la
 información.
+
 ● Este último método mostrará la información del libro con este formato:
+
 
 Título: Introduction to Java Programming 3a. edición
 Autor: Liang, Y. Daniel
